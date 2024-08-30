@@ -2,4 +2,3 @@ rectangle
 square
 circle
 triangle
-oral
